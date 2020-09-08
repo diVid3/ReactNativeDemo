@@ -66,6 +66,10 @@ export class Dropdown extends Component {
     // this.props.scrollToEnd();
   };
 
+  componentDidMount = () => {
+    
+  };
+
   render = () => {
 
     const components = this.createComponents(this.props.items);
