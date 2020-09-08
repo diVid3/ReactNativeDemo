@@ -95,6 +95,10 @@ export class BridgeProblem extends Component {
 
   };
 
+  componentDidUpdate = () => {
+
+  };
+
   render = () => {
 
     const components = this.createComponents(itemsMock);

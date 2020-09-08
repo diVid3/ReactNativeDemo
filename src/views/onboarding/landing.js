@@ -26,24 +26,6 @@ export class Landing extends Component {
             BridgeProblem
           </Text>
         </TouchableOpacity>
-{/* 
-        <TouchableOpacity
-          onPress={() => this.props.navigation.navigate('MountTest')}
-          style={styles.button}>
-
-          <Text>
-            MountTest
-          </Text>
-        </TouchableOpacity>
-
-        <TouchableOpacity
-          onPress={() => this.props.navigation.navigate('LayoutTest')}
-          style={styles.button}>
-
-          <Text>
-            LayoutTest
-          </Text>
-        </TouchableOpacity> */}
       </View>
     );
   };
