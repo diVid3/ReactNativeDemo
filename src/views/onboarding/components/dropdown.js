@@ -56,18 +56,16 @@ export class Dropdown extends Component {
 
     // this.props.scrollToEnd();
     // setTimeout(this.props.scrollToEnd, 100);
-    // this.props.setShouldScroll(true);
 
-    // console.warn('triggered scroll to end!');
+    // this.props.setShouldScroll(true);
   };
 
   componentDidUpdate = () => {
 
-    // this.props.scrollToEnd();
   };
 
   componentDidMount = () => {
-    
+
   };
 
   render = () => {

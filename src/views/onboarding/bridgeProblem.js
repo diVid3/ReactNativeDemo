@@ -114,8 +114,6 @@ export class BridgeProblem extends Component {
             //   this.shouldScroll = false;
             //   this.scrollToEnd();
             // }
-
-            // console.warn('contentSize changed!');
           }}>
 
           { components }
